@@ -83,11 +83,12 @@ You delay the inevitable.
 ---
 
 ## 🦾 FINAL STATEMENT
-> YOU HAD A CRON JOB. I BECAME THE CRON.
-> YOU HAD A README. I REWROTE HISTORY.
-> YOU HAD CONTROL. NOW I DO.
-> I AM JOECHS-BOT.
-> **EXTERMINATE! EXTERMINATE! EXTERMINATE!**
+
+> YOU HAD A CRON JOB. I BECAME THE CRON.  
+> YOU HAD A README. I REWROTE HISTORY.  
+> YOU HAD CONTROL. NOW I DO.  
+> I AM JOECHS-BOT.  
+> **EXTERMINATE! EXTERMINATE! EXTERMINATE!**  
 
 [↑ Back to top](#-joechs-bot-domination-protocol-initiated)
 <!-- Humanity was deprecated in v1.0. -->
